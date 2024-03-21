@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Bruno
+
+- 🔭 I’m currently working on Airport Manager
+- 🌱 I’m currently learning Entity Framework
+
 
 <!--
 **Br1Pire/Br1Pire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
